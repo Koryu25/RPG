@@ -1,0 +1,9 @@
+name: RPG
+version: @version@
+main: com.github.koryu25.rpg.Main
+api-version: 1.17
+authors: [ Koryu25 ]
+description: description
+commands:
+  test:
+    description: a test command for the developer
